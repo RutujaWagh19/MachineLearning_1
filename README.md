@@ -39,7 +39,7 @@ Run data.py
 Run function.py
 
 Train the model
-Once the data is collected, train the model using the trainmodel.py script
+Once the data is collected, train the model using the trainmodel.py  script.
 
 Run the Application
 After training the model, you can run the application using the app.py script by app.py
