@@ -4,9 +4,13 @@ Welcome to the Sign Language Recognition Project! This repository contains code 
 
 Project Structure
 app.py: This is the main application file. It contains the code for running the web or desktop application where users can interact with the trained model to recognize signs.
+
 trainmodel.py: This file is responsible for training the machine learning model. It includes data preprocessing, model architecture, training loops, and evaluation metrics.
+
 function.py: This file contains helper functions used throughout the project, such as data augmentation, image preprocessing, and utility functions.
+
 collectdata.py: This script is used to collect and preprocess data for training the model. It may include code for capturing images from a webcam, labeling data, and organizing the dataset.
+
 data.py: This file handles data loading and manipulation. It includes functions for loading the dataset, splitting it into training and validation sets, and other data-related tasks.
 
 Setup Instructions:
