@@ -16,7 +16,7 @@ data.py: This file handles data loading and manipulation. It includes functions 
 
 Setup Instructions:
 Clone the Repository
-git clone https://github.com/yourusername/sign-language-recognition.git
+git clone https://github.com/RutujaWagh19/MachineLearning_1.git
 cd sign-language-recognition
 
 
