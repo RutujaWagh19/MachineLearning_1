@@ -42,5 +42,4 @@ After training the model, you can run the application using the app.py script by
 
 Happy Coding!
 
-Rutuja Wagh
-RutujaWagh19
+RutujaWagh19(Rutuja Wagh).
