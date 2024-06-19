@@ -21,14 +21,15 @@ cd sign-language-recognition
 
 
 Install dependencies:
-- scikit-learn 1.5.0
+- scikit-learn 1.5.0:
   pip install scikit-learn
-- mediapipe 0.10.14
-  pip install mediapipe
-- opencv-python 4.10.0.84
+- mediapipe 0.10.14:
+  pip install mediapipe:
+- opencv-python 4.10.0.84:
   pip install opencv-python
-- tensorflow
+- tensorflow:
   pip install tensorflow
+- Install Python
 
 Collect Data:[Create your Dataset as Dataset is not provided in repository]
 Run the collectdata.py script to gather and preprocess data for training the model
