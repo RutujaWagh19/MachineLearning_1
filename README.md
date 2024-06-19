@@ -10,7 +10,7 @@ trainmodel.py: This file is responsible for training the machine learning model.
 
 function.py: This file contains helper functions used throughout the project, such as data augmentation, image preprocessing, and utility functions.
 
-collectdata.py: This script is used to collect and preprocess data for training the model. It may include code for capturing images from a webcam, labeling data, and organizing the dataset.
+collectdata.py: This script is used to collect and preprocess data for training the model. It include code for capturing images from a webcam, labeling data, and organizing the dataset.
 
 data.py: This file handles data loading and manipulation. It includes functions for loading the dataset, splitting it into training and validation sets, and other data-related tasks.
 
