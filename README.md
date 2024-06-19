@@ -3,6 +3,7 @@
 Welcome to the Sign Language Recognition Project! This repository contains code for recognizing signs and translating them into corresponding letters. The project uses machine learning to train a model that can interpret sign language symbols. Below is a brief description of each file in the repository and instructions on how to set up and run the project.
 
 Project Structure
+
 app.py: This is the main application file. It contains the code for running the web or desktop application where users can interact with the trained model to recognize signs.
 
 trainmodel.py: This file is responsible for training the machine learning model. It includes data preprocessing, model architecture, training loops, and evaluation metrics.
